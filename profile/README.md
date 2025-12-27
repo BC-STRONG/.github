@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 🙋‍♀️ Introduction
+
 🌈 Contribution guidelines
+
 👩‍💻 Useful resources
-🍿 Fun facts
-🧙 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 
 <!--
 
